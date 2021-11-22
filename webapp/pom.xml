@@ -16,7 +16,7 @@
   <description>Webapp.</description>
 
   <build>
-    <finalName>webapp</finalName>
+    <finalName>Webapp</finalName>
 
     <plugins>
       <plugin>
